@@ -5,3 +5,5 @@ utilizies [pickr](https://github.com/Simonwep/pickr) for color selection & [tiny
 
 currently supports:
 Analogous, Monochromatic, Complementary, Split Complementary, Triad and Tetrad
+
+demo available [here](https://wmlol.github.io/color-schemes-generator/)
