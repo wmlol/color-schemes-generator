@@ -1,4 +1,4 @@
-# Color Schemes Generator
+# 🎨 Color Schemes Generator
 
 Uses [pickr](https://github.com/Simonwep/pickr) for color selection & [tinycolor](https://github.com/bgrins/TinyColor) for color manipulation.
 
