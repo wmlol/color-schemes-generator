@@ -1,11 +1,14 @@
-# color schemes generator
-color schemes generator
+#Color Schemes Generator
 
-uses [pickr](https://github.com/Simonwep/pickr) for color selection & [tinycolor](https://github.com/bgrins/TinyColor) for color manipulation
+Uses [pickr](https://github.com/Simonwep/pickr) for color selection & [tinycolor](https://github.com/bgrins/TinyColor) for color manipulation.
 
-currently provides the following color schemes: 
-Analogous, Monochromatic, Complementary, Split Complementary, Triad and Tetrad
+Currently provides the following color schemes: 
+* Analogous
+* Monochromatic
+* Complementary
+* Split Complementary
+* Triad
+* Tetrad
+May add more at a later date.
 
-might add more at a later date 
-
-demo available [here](https://wmlol.github.io/color-schemes-generator/)
+Demo available [here](https://wmlol.github.io/color-schemes-generator/).
