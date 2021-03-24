@@ -9,6 +9,7 @@ Currently provides the following color schemes:
 * Split Complementary
 * Triad
 * Tetrad
+
 May add more at a later date.
 
 Demo available [here](https://wmlol.github.io/color-schemes-generator/).
